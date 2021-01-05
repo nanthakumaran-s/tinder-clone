@@ -5,7 +5,7 @@
   MERN Stack Development
 </h2>
 <p align="center">
-  <a href="https://github.com/nanthakumaran-s/BookFinder/blob/master/LICENSE"><img src="https://badgen.net/badge/license/MIT/blue" /></a>
+  <a href="https://github.com/nanthakumaran-s/tinder-clone/blob/master/LICENSE"><img src="https://badgen.net/badge/license/MIT/blue" /></a>
 </p>
 
 ---
